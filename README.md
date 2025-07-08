@@ -78,6 +78,8 @@ Included is a screenshot showing:
 - **Pivot Table Designer**
 - **Data Cleaning & Structuring Techniques**
 
+![image](https://github.com/user-attachments/assets/c5bcabad-1396-4524-afe9-ec03bd7c2a84)
+
 ---
 
 📌 _This project is ideal for roles in data analysis, retail intelligence, business reporting, or marketing analytics.
